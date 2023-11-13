@@ -13,6 +13,10 @@ Il est conseiller de cloner ce dossier dans google colab car le projet a été r
 # **Arborescence du répertoire GitHub avec Résumés des fichiers**
 
 
+`README`
+- `README.ipynb` : NoteBook d'édition du README markdown
+- `README.md` : Le fichier README en markdown affiché par GitHub
+
 ## **`DOC\`**  
 
 - `Rapport_Projet_NA_DM_M2_2023_2024.pdf` : Rapport de Projet  
