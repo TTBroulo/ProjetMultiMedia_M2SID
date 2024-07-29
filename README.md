@@ -6,7 +6,7 @@
 Réalisé par : **Léa Fabriol**, **Valentin Lafargue** & **Théotime Dmitrašinović**.  
 Date : 23/10/2023 -> 10/11/2023  
 
-Il est conseiller de cloner ce dossier dans google colab car le projet a été réalisé à l'aide de google drive.
+Il est conseillé de cloner ce dossier dans google colab car le projet a été réalisé à l'aide de google drive.
 
 ---
 
